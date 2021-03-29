@@ -1,6 +1,6 @@
 @font-face {
-  font-family: 'Roboto';
-    src: D:\Helen_1\Downloads\_1_WebHero\New Project-2\fonts
+  font-family: "Roboto", sans-serif;
+    src:"./fonts/Roboto/Roboto-Regular.ttf"
     font-weight: normal;
     font-style: normal;
   }
