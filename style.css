@@ -29,7 +29,7 @@
   width: 190px;
   height: 35px;
   border: dashed 1px red;
-  background: no-repeat url('img/logo.svg');
+  background: no-repeat center center url('img/logo.svg');
   }
 .header{
   padding: 40px 0;
