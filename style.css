@@ -7,8 +7,8 @@
 }
 .main__title {
  margin:0 0  40px 0;
- font-family: 'PT Serif';
- font: bold 50px/65px pt_serif, arial, helvetica, sans-serif;
+ /*font-family: 'PT Serif';*/
+ font: bold 50px/65px pt_serifbold, arial, helvetica, sans-serif;
  }
  .main__subtitle {
   margin:0 0 41px 0;
