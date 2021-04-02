@@ -81,15 +81,10 @@ height: 28px;
 background: #C8DBFB;
 }
 .header {
-  /*padding: 40px 0;*/
   display: flex;
   justify-content: space-between;
   margin-bottom: 100px;
 }
-/*.main-content {
- padding-top: 100px;
- width: 37%;
-}*/
 .section{
 position: relative;
 margin-right: 26px;
