@@ -1,22 +1,25 @@
+.body{
+   margin: 0;
+}
 .main {
- padding: 0 63% 100px 0;
+ padding: 0 70% 100px 0;
  background: top right no-repeat url(img/Frame.svg);
 }
 .main__title-text_highlight {
  background: #ECF3FF;
 }
 .main__title {
- margin:0 0  40px 0;
- /*font-family: 'PT Serif';*/
- font: bold 50px/65px pt_serifbold, arial, helvetica, sans-serif;
+ margin:0 0  20px 0;
+ font: bold 45.5px/60px pt_serifbold, arial, helvetica, sans-serif;
  }
  .main__subtitle {
-  margin:0 0 41px 0;
-    font: 18px/21px Roboto, arial, helvetica, sans-serif;
+  margin:0 0 27px 0;
+    font: 16px/18px Roboto, arial, helvetica, sans-serif;
  }
+ /*
  .main__button {
-  font: 14px/16px Roboto, arial, helvetica, sans-serif;
- }
+  font: 12px/16px Roboto, arial, helvetica, sans-serif;
+ }*/
 
 .menu__item {
   position: relative;
@@ -49,26 +52,26 @@
 }
 .wrapper{
   margin: auto;
-  width: 80%;
+  width: 88%;
 }
 .logo{
   position: relative;
-  padding: 40px 0;
-  padding-left: 44px;
-  font:bold 24px/32px pt_serifbold, arial, helvetica, sans-serif;
+  padding: 12px 0;
+  padding-left: 34px;
+  font:bold 16px/32px pt_serifbold, arial, helvetica, sans-serif;
   }
 .logo__circle {
   position: absolute;
   left:0;
   top:45%;
   transform: translateY(-50%);
-  width: 28px;
-  height: 28px;
+  width: 18px;
+  height: 18px;
   opacity: .7;
 }
 .logo__circle_color_dark-blue {
-width: 28px;
-height: 28px;
+width: 18px;
+height: 18px;
 border-radius: 50%;
 background: #0056EC;
 }
@@ -76,14 +79,14 @@ background: #0056EC;
 left: 8px;
 top: 56%;
 border-radius: 50%;
-width: 28px;
-height: 28px;
+width: 18px;
+height: 18px;
 background: #C8DBFB;
 }
 .header {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 100px;
+  margin-bottom: 143px;
 }
 .section{
 position: relative;
@@ -95,10 +98,10 @@ text-decoration: none;
 }
 .main__button{
 display: inline-block;
-font: 14px/16px Roboto, arial, helvetica,sans-serif;
+font: 12px/16px Roboto, arial, helvetica,sans-serif;
 color: #fff;
 background:#0056ec;
-padding: 14px 16px;
+padding: 12px 23px;
 text-decoration: none;
 border-radius: 4px;
 transition: opacity .5s;
